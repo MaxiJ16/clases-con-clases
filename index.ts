@@ -80,7 +80,7 @@ function testClaseEdificio() {
 function main() {
   testClaseEdificio();
 
-  //probando depto
+  //probando departamento
 
   // const departamentoCinco = new Departamento("Cinco");
   // console.log(departamentoCinco);
